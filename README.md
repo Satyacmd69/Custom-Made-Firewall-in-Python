@@ -69,7 +69,7 @@ sudo python3 main.py  # Linux (root access required)
 # OR
 python main.py        # Windows (run as admin)
 
-```
+
 
 ---
 🧩 Configure Rules
