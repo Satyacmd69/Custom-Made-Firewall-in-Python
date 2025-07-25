@@ -29,14 +29,6 @@ A real-time, cross-platform firewall built in Python for monitoring, filtering, 
 
 ---
 
-## 📸 Screenshots
-
-| Main GUI | Packet Logs |
-|----------|-------------|
-| ![GUI](screenshots/gui.png) | ![Logs](screenshots/logs.png) |
-
----
-
 ## 📂 Project Structure
 ```
 python-firewall/
@@ -51,7 +43,6 @@ python-firewall/
 ├── requirements.txt
 └── README.md
 ```
-
 
 ---
 
@@ -71,14 +62,14 @@ git clone https://github.com/Satyacmd69/python-firewall.git
 cd python-firewall
 pip install -r requirements.txt
 
----
+```bash
 🚀 Run the Firewall
 
 sudo python3 main.py  # Linux (root access required)
 # OR
 python main.py        # Windows (run as admin)
 
----
+```
 
 ---
 🧩 Configure Rules
